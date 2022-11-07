@@ -16,11 +16,14 @@ yarn-error.log
 
 /coverage
 .idea
+.husky
 yarn.lock
 package-lock.json
 pnpm-lock.yaml
 *bak
 .vscode
+.eslintignore
+.eslintrc.js
 
 
 # visual studio code
