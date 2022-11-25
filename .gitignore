@@ -24,6 +24,8 @@ pnpm-lock.yaml
 .vscode
 .eslintignore
 .eslintrc.js
+.prettierignore
+.prettierrc.js
 
 
 # visual studio code

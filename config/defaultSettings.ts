@@ -7,17 +7,18 @@ const Settings: LayoutSettings & {
   pwa?: boolean;
   logo?: string;
 } = {
-  navTheme: 'light',
+  navTheme: 'realDark',
   // 拂晓蓝
-  colorPrimary: '#1890ff',
-  layout: 'mix',
+  colorPrimary: '#FA541C',
+  layout: 'top',
   contentWidth: 'Fluid',
   fixedHeader: false,
-  fixSiderbar: true,
+  fixSiderbar: false,
   colorWeak: false,
-  title: 'Ant Design Pro',
+  splitMenus: false,
+  title: 'API接口平台',
   pwa: false,
-  logo: 'https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg',
+  logo: 'https://bobocahng-1309945187.cos.ap-guangzhou.myqcloud.com/logo.svg',
   iconfontUrl: '',
 };
 
